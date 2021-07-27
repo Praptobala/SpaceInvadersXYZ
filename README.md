@@ -6,6 +6,8 @@ Classic Taito title Space Invaders in Unity3D
 
 Unity Version : 2019.4.8f1
 
+YouTube Demo : https://www.youtube.com/watch?v=_SQLFEGhcEI
+
 ### Features implemented
 
 1. 3D Base game play with five rows of 11 invaders
